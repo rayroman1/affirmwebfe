@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 import com.example_affirmunregister.demo_affirm.model.Cust;
 
-//This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository test 3 for jenkins 
+//This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository test 4 for jenkins 
 //CRUD refers Create, Read, Update, Delete
 
 @Repository
