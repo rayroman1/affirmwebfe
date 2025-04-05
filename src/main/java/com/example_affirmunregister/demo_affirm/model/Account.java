@@ -70,6 +70,6 @@ public class Account {
 		return "Account [idaccount=" + idaccount + ", affidfk=" + affidfk + ", balance=" + balance + ", lastpaym="
 				+ lastpaym + ", amtdue=" + amtdue + ", duedate=" + duedate + "]";
 	}
-	
+	//test jenkins 12
 
 }
